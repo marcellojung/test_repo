@@ -2,8 +2,15 @@
 this is my first django project
 
 
-##Installation
+## Installation
 
 ''shell
-$pipp install -r requirements.txt
+$ pip install -r requirements.txt
 '''
+
+## how to start
+'''shell
+$ python manage.py runsercer
+'''
+
+## Description
