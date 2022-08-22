@@ -4,7 +4,7 @@ this is my first django project
 
 ## Installation
 
-''shell
+'''shell
 $ pip install -r requirements.txt
 '''
 
