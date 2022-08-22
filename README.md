@@ -4,13 +4,13 @@ this is my first django project
 
 ## Installation
 
-'''shell
+```shell
 $ pip install -r requirements.txt
-'''
+```
 
 ## how to start
-'''shell
+```shell
 $ python manage.py runsercer
-'''
+```
 
 ## Description
